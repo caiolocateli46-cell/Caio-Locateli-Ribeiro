@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Caio]
+# 👋 Olá, eu sou Caio
 
 Sou um desenvolvedor front-end iniciante de 13 anos, apaixonado por criar interfaces com personalidade. Atualmente aprendendo JavaScript e Three.js.
 
