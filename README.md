@@ -11,9 +11,8 @@ Sou um desenvolvedor front-end iniciante de 13 anos, apaixonado por criar interf
 ## 📚 Estudando Agora
 
 *   **JavaScript (JS)**
-
-    ![JavaScript]<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="JavaScript" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s" alt="JavaScript" />
 
 *   **Aprimoramento de Front-end**
 
-    ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+ <img src="https://ayltoninacio.com.br/img/p/32w750.jpg" alt="JavaScript" />
