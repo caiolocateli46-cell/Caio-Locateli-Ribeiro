@@ -10,14 +10,11 @@ Sou um desenvolvedor front-end iniciante de 13 anos, apaixonado por criar interf
 
 ## 📚 Estudando Agora
 
-*   **JavaScript (JS)**
+Aqui estão as tecnologias que estou dominando no momento:
 
-    ![JavaScript](https://shields.io)
-
-*   **Three.js**
-
-    ![Three.js](https://shields.io)
-
-*   **Aprimoramento de Front-end**
-
-    ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+<div align="left">
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Three.js" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+</div>
