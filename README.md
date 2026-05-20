@@ -15,4 +15,4 @@ Sou um desenvolvedor front-end iniciante de 13 anos, apaixonado por criar interf
 
 *   **Aprimoramento de Front-end**
 
- <img src="https://ayltoninacio.com.br/img/p/32w750.jpg" alt="JavaScript" />
+ <img src="https://www.rhbinformatica.com.br/arquivos/2017/10/logo-html-css.png" alt="JavaScript" />
