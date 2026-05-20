@@ -1,11 +1,18 @@
-# 👋 Olá, eu sou Caio
+# 👋 Olá, eu sou o Caio
 
-Sou um desenvolvedor front-end iniciante de 13 anos, apaixonado por criar interfaces com personalidade. Atualmente aprendendo JavaScript e Three.js.
+Sou um desenvolvedor front-end iniciante de 13 anos, apaixonado por criar interfaces com personalidade. Atualmente, estou focado em aprender JavaScript e Three.js.
 
-## 🚀 Projetos em destaque
-- [AI VERITY]Uma AI feita para um trabalho nacional com apoios de colegas
-- caso queira testar aqui está o link "https://ai-verity.vercel.app/"
+## 🚀 Projetos em Destaque
 
-## 📚 Estudando agora
-- Js
-- Melhorando frontend (html,css)
+*   **[AI VERITY](https://vercel.app)**
+    *   Uma IA desenvolvida para um projeto nacional com o apoio de colegas.
+    *   Clique no nome acima ou [acesse aqui](https://vercel.app) para testar a aplicação.
+
+## 📚 Estudando Agora
+
+*   **JavaScript (JS)**  
+    ![JavaScript](https://shields.io)
+*   **Three.js**  
+    ![Three.js](https://shields.io)
+*   **Aprimoramento de Front-end**  
+    ![HTML5](https://shields.io) ![CSS3](https://shields.io)
